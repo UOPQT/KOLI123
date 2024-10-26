@@ -1,3 +1,3 @@
 #pateljii.py
 # Replace with your actual bot token
-TOKEN = '7915229015:AAFPv6esbnwmxhyLFDf0-2oaeDCrTm3gnXw'
+TOKEN = '7906362629:AAEKotC_YxbM-i-m4PT7bpGfQaaL22SMbrE'
